@@ -1,0 +1,5 @@
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.App.Tests\bin\Debug\Ecommerce.App.Tests.dll
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.App.Tests\bin\Debug\Ecommerce.App.Tests.pdb
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.App.Tests\obj\Debug\Ecommerce.App.Tests.dll
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.App.Tests\obj\Debug\Ecommerce.App.Tests.pdb
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.App.Tests\obj\Debug\Ecommerce.App.Tests.csprojResolveAssemblyReference.cache

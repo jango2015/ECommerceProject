@@ -1,0 +1,7 @@
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Helpers.Tests\bin\Debug\Ecommerce.Helpers.Tests.dll
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Helpers.Tests\bin\Debug\Ecommerce.Helpers.Tests.pdb
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Helpers.Tests\obj\Debug\Ecommerce.Helpers.Tests.dll
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Helpers.Tests\obj\Debug\Ecommerce.Helpers.Tests.pdb
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Helpers.Tests\bin\Debug\Ecommerce.Helpers.dll
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Helpers.Tests\bin\Debug\Ecommerce.Helpers.pdb
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Helpers.Tests\obj\Debug\Ecommerce.Helpers.Tests.csprojResolveAssemblyReference.cache

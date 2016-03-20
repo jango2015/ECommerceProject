@@ -1,0 +1,4 @@
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.StartUp.Tests\bin\Debug\Ecommerce.StartUp.Tests.dll
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.StartUp.Tests\bin\Debug\Ecommerce.StartUp.Tests.pdb
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.StartUp.Tests\obj\Debug\Ecommerce.StartUp.Tests.dll
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.StartUp.Tests\obj\Debug\Ecommerce.StartUp.Tests.pdb

@@ -1,0 +1,4 @@
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Helpers\bin\Debug\Ecommerce.Helpers.dll
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Helpers\bin\Debug\Ecommerce.Helpers.pdb
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Helpers\obj\Debug\Ecommerce.Helpers.dll
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Helpers\obj\Debug\Ecommerce.Helpers.pdb

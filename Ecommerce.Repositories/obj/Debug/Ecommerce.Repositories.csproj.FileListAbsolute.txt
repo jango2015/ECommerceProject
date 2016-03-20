@@ -1,0 +1,9 @@
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Repositories\bin\Debug\Ecommerce.Repositories.dll
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Repositories\bin\Debug\Ecommerce.Repositories.pdb
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Repositories\bin\Debug\Ecommerce.Helpers.dll
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Repositories\bin\Debug\Ecoomerce.Domain.dll
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Repositories\bin\Debug\Ecommerce.Helpers.pdb
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Repositories\bin\Debug\Ecoomerce.Domain.pdb
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Repositories\obj\Debug\Ecommerce.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Repositories\obj\Debug\Ecommerce.Repositories.dll
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Repositories\obj\Debug\Ecommerce.Repositories.pdb

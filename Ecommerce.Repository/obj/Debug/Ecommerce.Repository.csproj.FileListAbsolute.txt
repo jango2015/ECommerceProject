@@ -1,0 +1,5 @@
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Repository\bin\Debug\Ecommerce.Repository.dll
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Repository\bin\Debug\Ecommerce.Repository.pdb
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Repository\obj\Debug\Ecommerce.Repository.csprojResolveAssemblyReference.cache
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Repository\obj\Debug\Ecommerce.Repository.dll
+C:\Users\MEGAZORD\Documents\GitHub\ECommerceProject\Ecommerce.Repository\obj\Debug\Ecommerce.Repository.pdb
